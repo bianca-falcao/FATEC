@@ -24,6 +24,12 @@ Este repositório foi criado para compartilhar **exercícios resolvidos** e **co
 
 ---
 
+## 📄 Licença
+
+Este repositório está sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/bianca-falcao/FATEC/blob/main/LICENSE) para mais detalhes.
+
+---
+
 👨‍💻 Autores
 
 - Bianca Falcão e Gabriel Vicentin
