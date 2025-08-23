@@ -27,16 +27,10 @@ Este repositório foi criado para compartilhar **exercícios resolvidos** e **co
 👨‍💻 Autores
 
 - Bianca Falcão e Gabriel Vicentin
-  
----
-
-📄 Licença
-
-Este repositório está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ---
 
 🔗 Links Úteis
 
-- Drive: (https://drive.google.com/drive/folders/1Ka_BfBGFjfFcjQBtrj4ouie3zGUkLs1G?usp=drive_link)
-- Discord: (https://discord.gg/TtJfBs5b)
+- [Drive](https://drive.google.com/drive/folders/1Ka_BfBGFjfFcjQBtrj4ouie3zGUkLs1G?usp=drive_link)
+- [Discord](https://discord.gg/TtJfBs5b)
