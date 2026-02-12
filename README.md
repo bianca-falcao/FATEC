@@ -16,7 +16,7 @@ Este repositório foi criado para compartilhar **exercícios resolvidos** e **co
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/bianca-falcao/FATEC.git
 
 2. Navegue pelas pastas de exercícios e conteúdos.
 
